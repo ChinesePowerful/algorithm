@@ -7,6 +7,11 @@
 
 ## 数据结构
 
-### [1.背包、队列和栈](https://github.com/ChinesePowerful/algorithm)
+[1.背包](https://github.com/ChinesePowerful/bag)
+
+[2.队列](https://github.com/ChinesePowerful/queue)
+
+[3.栈](https://github.com/ChinesePowerful/stack)
+
 
 ## 算法
