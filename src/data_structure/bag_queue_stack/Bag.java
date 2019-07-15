@@ -10,9 +10,9 @@ public class Bag<Item> implements Iterable<Item> {
         Node next;
     }
 
-//    背包的第一个节点和节点个数
+//    定义头节点和节点个数
     private Node first;
-    private int elementNumber;
+    private int elementNumber = 0;
 
     public int size() {
         return elementNumber;
@@ -51,8 +51,20 @@ public class Bag<Item> implements Iterable<Item> {
             return item;
         }
 
-        public void remove() {
+    }
 
+    public static void main(String[] args) {
+        Bag<String> stringBag = new Bag<>();
+        stringBag.add("哈哈哈");
+        stringBag.add("嘤嘤嘤");
+        stringBag.add("嘿嘿嘿");
+        stringBag.add("呵呵呵");
+        stringBag.add("嘎嘎嘎");
+        stringBag.add("呱呱呱");
+
+        Iterator<String> stringIterator = stringBag.iterator();
+        while (stringIterator.hasNext()) {
+            System.out.println(stringIterator.next());
         }
     }
 
