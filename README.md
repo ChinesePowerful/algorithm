@@ -16,6 +16,8 @@
 - 对于许多应用场景，用例的要求只是用某种方式处理集合中的每个元素，或者叫做迭代访问集合中的所有元素
 - 我们可以让我们的集合类实现 Iterator接口，使得集合支持迭代
 
+### 数据结构的实现
+
 [1.背包、队列和栈](https://github.com/ChinesePowerful/data_structure/bag_queue_stack)
 
 [2.队列](https://github.com/ChinesePowerful/data_structure/queue)
