@@ -18,7 +18,7 @@
 
 ### 数据结构的实现
 
-[1.背包、队列和栈](https://github.com/ChinesePowerful/data_structure/bag_queue_stack)
+[1.背包、队列和栈](https://github.com/ChinesePowerful/algorithm/tree/master/src/data_structure/bag_queue_stack)
 
 [2.队列](https://github.com/ChinesePowerful/data_structure/queue)
 
