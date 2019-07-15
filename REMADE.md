@@ -1,3 +1,3 @@
-[数据结构与算法](https://github.com/ChinesePowerful/gof23)
+[数据结构和算法](https://github.com/ChinesePowerful/algorithm)
 =======
 
