@@ -7,11 +7,20 @@
 
 ## 数据结构
 
-[1.背包](https://github.com/ChinesePowerful/bag)
+### 泛型
+- 集合类的抽象数据类型的一个关键特性是我们应该可以使用它们存储任意类型的数据。
+- 一种特殊的 Java 机制能够做到这一点，它被称之为 **泛型**
+- 以下数据结构都支持泛型
 
-[2.队列](https://github.com/ChinesePowerful/queue)
+### 迭代器
+- 对于许多应用场景，用例的要求只是用某种方式处理集合中的每个元素，或者叫做迭代访问集合中的所有元素
+- 我们可以让我们的集合类实现 Iterator接口，使得集合支持迭代
 
-[3.栈](https://github.com/ChinesePowerful/stack)
+[1.背包](https://github.com/ChinesePowerful/data_structure/bag)
+
+[2.队列](https://github.com/ChinesePowerful/data_structure/queue)
+
+[3.栈](https://github.com/ChinesePowerful/data_structure/stack)
 
 
 ## 算法
