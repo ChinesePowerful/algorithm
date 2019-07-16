@@ -26,6 +26,6 @@
 
 ## 算法
 
-[1.二分查找](https://github.com/ChinesePowerful/algorithm/tree/master/src/algorithm)
+[1.二分查找](https://github.com/ChinesePowerful/algorithm/tree/master/src/algorithm/binary_search)
 
 
