@@ -22,7 +22,10 @@
 
 [2.优先队列](https://github.com/ChinesePowerful/algorithm/tree/master/src/data_structure/priority_queue)
 
-[3.栈](https://github.com/ChinesePowerful/data_structure/stack)
 
 
 ## 算法
+
+[1.二分查找](https://github.com/ChinesePowerful/algorithm/tree/master/src/algorithm)
+
+
