@@ -18,8 +18,6 @@
 
 ## 数据结构
 
-### 集合类数据结构
-
 [1.背包、队列和栈](https://github.com/ChinesePowerful/algorithm/tree/master/src/data_structure/bag_queue_stack)
 
 [2.优先队列](https://github.com/ChinesePowerful/algorithm/tree/master/src/data_structure/priority_queue)
