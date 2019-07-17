@@ -42,8 +42,8 @@
 
 [3.插入排序（Insert Sort）](https://github.com/ChinesePowerful/algorithm/tree/master/src/algorithm/sort)
 
-[4.希尔排序](https://github.com/ChinesePowerful/algorithm/tree/master/src/algorithm/sort)
+[4.希尔排序（Shell Sort）](https://github.com/ChinesePowerful/algorithm/tree/master/src/algorithm/sort)
 
-[5.归并排序](https://github.com/ChinesePowerful/algorithm/tree/master/src/algorithm/sort)
+[5.归并排序（Merge Sort）](https://github.com/ChinesePowerful/algorithm/tree/master/src/algorithm/sort)
 
-[6.快速排序](https://github.com/ChinesePowerful/algorithm/tree/master/src/algorithm/sort)
+[6.快速排序（Quick Sort）](https://github.com/ChinesePowerful/algorithm/tree/master/src/algorithm/sort)
