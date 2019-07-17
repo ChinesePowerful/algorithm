@@ -26,6 +26,8 @@
 
 [2.优先队列（Priority Queue）](https://github.com/ChinesePowerful/algorithm/tree/master/src/data_structure/priority_queue)
 
+[3.二叉查找树（Binary Search Tree）](https://github.com/ChinesePowerful/algorithm/tree/master/src/data_structure/binary_search_tree)
+
 
 
 ## 算法
