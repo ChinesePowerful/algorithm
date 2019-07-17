@@ -28,6 +28,9 @@
 
 [3.二叉查找树（Binary Search Tree）](https://github.com/ChinesePowerful/algorithm/tree/master/src/data_structure/tree/binary_search_tree)
 
+[4.红黑二叉查找树（Red Black Tree）](https://github.com/ChinesePowerful/algorithm/tree/master/src/data_structure/tree/red_black_binary_search_tree)
+
+[5.散列表（Hash Table）](https://github.com/ChinesePowerful/algorithm/tree/master/src/data_structure/table/hash_table)
 
 
 ## 算法
