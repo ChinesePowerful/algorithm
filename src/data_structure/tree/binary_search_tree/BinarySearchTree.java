@@ -1,5 +1,7 @@
 package data_structure.tree.binary_search_tree;
 
+import algorithm.binary_search.BinarySearch;
+
 public class BinarySearchTree<Key extends Comparable<Key>, Value> {
 
     private class Node {
