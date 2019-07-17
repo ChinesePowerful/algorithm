@@ -5,7 +5,6 @@ public class BubbleSort {
     /**
      * 冒泡排序
      * 每一轮排序都将较大的元素向右排
-     * O(n) = array.length * (array.length ~ 1)
      * @param array 排序数组
      */
     public static void sort(Comparable[] array) {

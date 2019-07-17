@@ -4,7 +4,6 @@ public class SelectSort {
 
     /**
      * 选择排序
-     * O(n) = array.length * (array.length ~ 1)
      * @param array 排序数组
      */
     public static void sort(Comparable[] array) {
