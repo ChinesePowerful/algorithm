@@ -154,7 +154,7 @@ public class ShellSort {
 
 ### 5.归并排序
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.bilibili.com/video/av18980178/)
 
 - 先将所有元素都拷贝到辅助空间 aux 中，然后在归并回原来的数组 array 中，归并的 4 个判断条件：
 	1. 左半边的元素用尽了（取右半边的元素）
